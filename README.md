@@ -77,7 +77,7 @@ My independent contribution included implementing the Excel analysis, selecting 
 
 ## Project Files
 
-* `Customer_Churn_Analysis.xlsx` — Excel workbook containing the analysis, pivot tables, dashboard, and findings.
+* churn_analysis_project.xlsx — Excel workbook containing the analysis, pivot tables, dashboard, and findings.
 
 ## Skills Demonstrated
 
