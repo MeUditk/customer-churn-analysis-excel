@@ -1,6 +1,7 @@
 # Customer Churn Analysis Using Microsoft Excel
 
-## Project Overview
+## dashboard Overview
+![Customer Churn Dashboard](dashboard_png.png  )
 
 This project explores customer churn patterns using a dataset containing approximately 64,000 customer records.
 
